@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Prosta strona na lekcję v2">
+  		<meta name="keywords" content="Tarkov , meme , Altyn ,slick , Goldenstar, ucieczka,kektor ">
+ 		 <meta name="author" content="Gołąb">
+		 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>no we we 5 by się przydało </title>		
+		<style>
+			body {
+			  background-image: url('4k.png');
+			  background-repeat: no-repeat;
+ 			 background-attachment: fixed;  
+  			background-size: cover;
+			}
+			</style>
+	</head>
+<body>
+	
+	<center>
+		
+	<img src="owalski.jpg" alt="Boi with kektor">
+		<br>
+	<img src="whoa-look-at-that.gif" width="480" height="480">
+		<br>
+	<img src="steal his look.png" alt="Workplace" usemap="#workmap" width="720" height="1024" >
+	<map name="workmap">
+	<area shape="rect" coords="200,200,300,300" alt="sordin" href="https://www.militaria.pl/z-tactical/zestaw_sluchawkowy_z-tactical_sordin_-_camo_ztc-31-007239_g_p40189.xml?gclid=Cj0KCQiA-qGNBhD3ARIsAO_o7ymJ2kIflwpfQ9k_B5zLPxuyQdEQBGVifkgmKEGi9gwLd8YdIzxUC10aAsSqEALw_wcB">
+	<area shape="circle" coords="325,342,45" alt="respirator" href="https://www.grainger.com/product/3M-Half-Mask-Respirator-Kit-4MH61">
+	<area shape="rect" coords="200,400,345,490" alt="kordur" href="https://grey-shop.ru/armor/Bodyarmor/Rosguard-Assault-Bodyarmor-Korund-VM-K">
+	<area shape="circle" coords="400,530,38" alt="uh-1" href="https://kolba.pl/product/34190,kolimator-holograficzny-vortex-razor-uh-1-gen-ii"/>
+	<area shape="rect" coords="360,550,500,720" alt="kektor" href="https://besthunters.pl/kriss-vector-gen-ii-crb.html">
+</map>
+<br>
+	<picture>
+	<source media="(min-width: 1080px)" srcset="taniec.gif">
+	<source media="(min-width: 960px)" srcset="kermit.gif">
+	<source media="(min-width: 720px)" srcset="ff.jpg">
+	<img src="piątek.jpg" style="width:auto;">
+	</picture>
+</center>
+</body>
+
+
+
+</html>
